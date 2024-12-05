@@ -1,0 +1,1000 @@
+Vegetable Stir Fry: baking powder, cream, beans, vanilla, onion, pasta, lettuce
+Chicken Alfredo: flour, cream, onion, olive oil, sugar, milk, broccoli, spinach
+Cheeseburger: minced meat, carrots, milk, flour, apple, butter, spaghetti
+Stuffed Peppers: fish, cheese, celery, beans, lemon, broccoli
+Pumpkin Pie: sugar, spinach, fish, minced meat, lettuce, cinnamon
+Chicken Alfredo: sugar, cocoa powder, garlic, eggs, basil, salt
+Chicken Curry: fish, basil, parmesan cheese, spaghetti, onion, celery, beans
+Pumpkin Pie: carrots, minced meat, Caesar dressing, mushrooms, pepper, honey, beef
+Beef Tacos: yogurt, spinach, apple, lettuce, olive oil, beef, celery
+Chocolate Cake: yogurt, baking powder, cheese, sugar, rice, spinach, honey
+Vegetable Stir Fry: flour, croutons, milk, carrots, basil, minced meat, pepper
+Egg Salad: tomatoes, butter, shrimp, rice, garlic, cocoa powder
+Chicken Curry: lettuce, olive oil, corn, cinnamon, rice, flour, tomatoes
+Vegetable Stir Fry: carrots, salt, honey, olive oil, spaghetti
+Tomato Soup: pasta, vanilla, onion, eggs, spinach, milk, rice
+Chicken Curry: rice, carrots, chili, celery, vanilla, honey, tomatoes
+Chocolate Cake: croutons, sugar, cocoa powder, beans, rice, carrots
+Vegetable Stir Fry: cheese, corn, lemon, cinnamon, chili, sugar
+Lasagna: Caesar dressing, sugar, carrots, onion, butter, garlic, olive oil
+Apple Pie: vanilla, potatoes, cheese, beef, garlic, apple
+Chicken Alfredo: basil, minced meat, salt, potatoes, lettuce
+Chicken Curry: cheese, beans, carrots, celery, shrimp, honey, fish
+Shrimp Scampi: honey, cinnamon, celery, lemon, carrots
+Lasagna: lemon, vanilla, tomatoes, spinach, bread, cinnamon, apple
+Lentil Soup: garlic, cinnamon, spaghetti, fish, potatoes
+Pancakes: salt, minced meat, vanilla, honey, onion, cinnamon
+Chocolate Cake: pepper, fish, cheese, celery, pasta, chili
+Caesar Salad: shrimp, mushrooms, pepper, minced meat, flour, butter, honey, cocoa powder
+Egg Salad: tomatoes, rice, spaghetti, pasta, onion
+Spaghetti Bolognese: vanilla, lemon, parmesan cheese, cream, celery, spaghetti, spinach
+Beef Tacos: cheese, apple, olive oil, beef, salt, spinach, sugar, bread
+Minestrone Soup: Caesar dressing, tomatoes, potatoes, carrots, parmesan cheese
+Grilled Cheese Sandwich: butter, onion, honey, salt, chili, cheese, potatoes
+Grilled Cheese Sandwich: pepper, parmesan cheese, yogurt, garlic, carrots, tomatoes, corn, rice
+Minestrone Soup: cinnamon, lemon, flour, Caesar dressing, beans
+Beef Tacos: flour, basil, croutons, pasta, honey, beans, chili, parmesan cheese
+Apple Pie: salt, baking powder, lemon, fish, apple, potatoes, basil
+Garlic Bread: carrots, flour, shrimp, bread, Caesar dressing, cinnamon, mushrooms
+Mashed Potatoes: broccoli, baking powder, beef, apple, yogurt, lemon, garlic, basil
+Fish and Chips: lettuce, apple, celery, shrimp, carrots, corn, yogurt
+Egg Salad: beef, butter, potatoes, rice, lemon, salt, onion
+Tomato Soup: beans, minced meat, onion, basil, cocoa powder
+Stuffed Peppers: spaghetti, parmesan cheese, beef, broccoli, lettuce, cocoa powder
+Chocolate Cake: basil, beef, cheese, cinnamon, chili
+Roast Chicken: rice, cocoa powder, minced meat, spinach, vanilla, garlic
+Minestrone Soup: flour, shrimp, minced meat, beans, baking powder, celery, sugar
+Egg Salad: salt, mushrooms, garlic, onion, rice
+Beef Tacos: onion, lemon, bread, carrots, lettuce, garlic, milk
+Chocolate Cake: honey, potatoes, garlic, milk, shrimp, cheese
+Banana Bread: spaghetti, apple, olive oil, eggs, sugar, butter, cream, chicken
+Mashed Potatoes: cocoa powder, chili, beans, flour, rice, cream, chicken
+Chicken Alfredo: cheese, basil, vanilla, broccoli, cocoa powder, apple
+Spaghetti Bolognese: chicken, salt, olive oil, beans, baking powder, cheese
+French Toast: chili, milk, minced meat, beef, yogurt, basil
+Minestrone Soup: onion, baking powder, apple, pepper, yogurt, corn, salt
+Caesar Salad: chili, baking powder, apple, bread, eggs, fish, beef, celery
+Apple Pie: eggs, cocoa powder, flour, sugar, apple, shrimp, bread, salt
+Lasagna: spinach, minced meat, fish, cream, baking powder
+Stuffed Peppers: eggs, baking powder, carrots, minced meat, pepper, lettuce, fish
+Roast Chicken: beans, yogurt, vanilla, mushrooms, baking powder
+Pumpkin Pie: honey, potatoes, yogurt, spaghetti, flour, Caesar dressing, bread, rice
+Caesar Salad: apple, beef, eggs, garlic, cream, yogurt
+Mashed Potatoes: baking powder, salt, chicken, rice, celery, milk, beans
+Tomato Soup: rice, olive oil, cream, celery, onion, tomatoes, parmesan cheese, lettuce
+Pumpkin Pie: butter, onion, croutons, cinnamon, apple, rice
+Apple Pie: parmesan cheese, rice, beef, lemon, onion, potatoes, butter, cinnamon
+Fish and Chips: olive oil, salt, cinnamon, milk, cream, lettuce, beans
+Roast Chicken: croutons, apple, butter, Caesar dressing, tomatoes, shrimp, lemon
+Lasagna: bread, Caesar dressing, carrots, cocoa powder, yogurt
+Grilled Cheese Sandwich: baking powder, cocoa powder, chicken, lettuce, cheese
+Lasagna: beef, corn, broccoli, beans, spinach
+Lasagna: mushrooms, broccoli, garlic, spaghetti, cocoa powder, pasta
+Lasagna: olive oil, chili, garlic, mushrooms, Caesar dressing, flour, apple
+Tomato Soup: pepper, cinnamon, yogurt, basil, broccoli, cheese, honey
+Egg Salad: tomatoes, minced meat, rice, corn, potatoes, Caesar dressing, beef
+Grilled Cheese Sandwich: celery, parmesan cheese, rice, vanilla, cinnamon
+Mashed Potatoes: minced meat, potatoes, Caesar dressing, spaghetti, flour, honey, yogurt, celery
+Banana Bread: milk, pasta, potatoes, cinnamon, apple
+Caesar Salad: milk, lemon, lettuce, garlic, Caesar dressing, beans, pepper, honey
+Vegetable Stir Fry: corn, pasta, croutons, salt, eggs, cocoa powder, potatoes
+Caesar Salad: olive oil, spaghetti, baking powder, salt, yogurt, onion, beans
+Apple Pie: minced meat, cream, sugar, milk, shrimp, celery, beans, lettuce
+Fish and Chips: lemon, milk, honey, spaghetti, chili, tomatoes, cocoa powder
+French Toast: garlic, basil, cocoa powder, flour, carrots, broccoli, lemon, Caesar dressing
+Tomato Soup: apple, olive oil, pasta, mushrooms, sugar, butter, carrots, potatoes
+Chicken Curry: eggs, shrimp, butter, pepper, cinnamon, basil, cheese, mushrooms
+Mashed Potatoes: spaghetti, parmesan cheese, cream, olive oil, lemon, pasta, butter, tomatoes
+Pumpkin Pie: spaghetti, milk, honey, tomatoes, baking powder, beef, croutons, cheese
+Caesar Salad: cocoa powder, parmesan cheese, sugar, vanilla, carrots
+Shrimp Scampi: honey, butter, cinnamon, lettuce, baking powder, chili, tomatoes
+Chicken Curry: basil, cheese, bread, olive oil, carrots, celery, broccoli
+Pumpkin Pie: salt, cocoa powder, cream, eggs, shrimp, beans
+Mashed Potatoes: bread, celery, cream, mushrooms, baking powder
+Banana Bread: cream, croutons, bread, butter, celery, carrots
+Cheeseburger: pepper, bread, vanilla, beans, milk, chicken, tomatoes
+Roast Chicken: salt, pasta, onion, cheese, fish, mushrooms, spaghetti, carrots
+Stuffed Peppers: carrots, olive oil, mushrooms, cream, parmesan cheese
+Beef Tacos: eggs, cocoa powder, chili, garlic, croutons, spinach, butter, lettuce
+Lentil Soup: shrimp, mushrooms, butter, beans, tomatoes, apple, cheese, pepper
+Stuffed Peppers: parmesan cheese, sugar, milk, tomatoes, salt, butter, chicken, cocoa powder
+Egg Salad: honey, shrimp, chili, milk, mushrooms, cream, vanilla, lettuce
+Apple Pie: corn, cheese, flour, lemon, pasta
+Spaghetti Bolognese: beans, butter, minced meat, Caesar dressing, honey, chili, basil, apple
+Minestrone Soup: beans, mushrooms, corn, Caesar dressing, broccoli, fish, pepper, flour
+Egg Salad: lettuce, parmesan cheese, milk, flour, chicken, shrimp
+Shrimp Scampi: onion, lemon, eggs, celery, garlic, flour, corn, butter
+Banana Bread: tomatoes, butter, sugar, spinach, mushrooms, garlic, fish
+Fish and Chips: cheese, cinnamon, tomatoes, minced meat, beans
+Beef Tacos: baking powder, lemon, Caesar dressing, croutons, bread
+Chocolate Cake: sugar, carrots, cheese, lemon, apple
+Caesar Salad: rice, mushrooms, celery, pasta, shrimp
+Lasagna: parmesan cheese, croutons, chili, fish, pasta
+Lentil Soup: rice, cinnamon, chili, shrimp, Caesar dressing
+Tomato Soup: tomatoes, yogurt, broccoli, eggs, corn, garlic, carrots
+Pumpkin Pie: olive oil, corn, milk, garlic, pepper, flour, cheese, bread
+Shrimp Scampi: olive oil, carrots, salt, butter, chicken, rice
+Chicken Curry: beef, bread, cocoa powder, onion, salt, yogurt, shrimp, carrots
+Mashed Potatoes: spinach, milk, chili, beef, cinnamon, eggs, honey
+Egg Salad: minced meat, croutons, onion, cinnamon, parmesan cheese, potatoes, apple, cocoa powder
+Caesar Salad: fish, vanilla, pasta, beans, salt
+Tomato Soup: rice, flour, tomatoes, cinnamon, bread, broccoli
+Stuffed Peppers: lettuce, sugar, pepper, minced meat, pasta, salt, baking powder
+Egg Salad: pasta, tomatoes, celery, olive oil, carrots, beans, Caesar dressing
+Stuffed Peppers: carrots, fish, onion, lettuce, bread, honey, olive oil
+Lasagna: honey, shrimp, lettuce, chili, Caesar dressing, pasta
+Roast Chicken: cocoa powder, broccoli, bread, fish, chili, yogurt, cheese, shrimp
+Minestrone Soup: carrots, broccoli, beans, cheese, beef
+Fish and Chips: honey, rice, baking powder, yogurt, chili
+Minestrone Soup: croutons, bread, chicken, tomatoes, garlic, honey, cheese, olive oil
+Lasagna: apple, shrimp, minced meat, chili, olive oil, milk, onion
+French Toast: cream, fish, cinnamon, potatoes, cheese, beef, butter, sugar
+Minestrone Soup: fish, baking powder, potatoes, onion, cinnamon, pepper, eggs
+Egg Salad: cinnamon, broccoli, bread, carrots, vanilla
+Chicken Curry: chicken, minced meat, rice, chili, tomatoes, croutons, onion, cream
+Chicken Curry: spinach, eggs, cinnamon, broccoli, cocoa powder, shrimp
+Caesar Salad: lemon, pasta, basil, shrimp, lettuce, garlic, cheese, fish
+Lentil Soup: cocoa powder, garlic, yogurt, cheese, pepper
+Beef Tacos: cinnamon, broccoli, rice, corn, cream, shrimp, apple
+Spaghetti Bolognese: cream, corn, spinach, yogurt, lettuce, flour
+Apple Pie: bread, mushrooms, spaghetti, beef, rice
+Vegetable Stir Fry: tomatoes, eggs, shrimp, corn, minced meat, olive oil, pasta
+Egg Salad: cheese, olive oil, parmesan cheese, pepper, minced meat, pasta
+Spaghetti Bolognese: olive oil, bread, lettuce, Caesar dressing, apple, mushrooms, eggs, potatoes
+Lentil Soup: tomatoes, beef, chili, garlic, beans, vanilla
+Mashed Potatoes: spinach, tomatoes, lettuce, parmesan cheese, beans
+Vegetable Stir Fry: cheese, celery, minced meat, cream, pepper, Caesar dressing, butter
+Chicken Curry: shrimp, broccoli, onion, basil, garlic, carrots
+Cheeseburger: parmesan cheese, garlic, salt, basil, beef, butter, yogurt, cream
+Banana Bread: cinnamon, celery, milk, olive oil, shrimp, bread, tomatoes
+Egg Salad: sugar, parmesan cheese, vanilla, cream, Caesar dressing
+Mashed Potatoes: apple, sugar, spaghetti, parmesan cheese, baking powder, lemon, fish, eggs
+Chocolate Cake: corn, chicken, lettuce, olive oil, croutons, cocoa powder, shrimp
+Garlic Bread: mushrooms, apple, lettuce, vanilla, shrimp, chili, baking powder, croutons
+French Toast: vanilla, croutons, minced meat, parmesan cheese, basil, olive oil
+Cheeseburger: spaghetti, milk, chili, butter, beef, onion, cocoa powder, Caesar dressing
+Tomato Soup: pasta, broccoli, corn, croutons, baking powder, bread
+Egg Salad: bread, fish, broccoli, salt, Caesar dressing
+French Toast: corn, yogurt, eggs, honey, chicken, fish
+Spaghetti Bolognese: garlic, olive oil, cocoa powder, spaghetti, apple
+Spaghetti Bolognese: Caesar dressing, mushrooms, lemon, bread, olive oil, onion, cocoa powder, cream
+Minestrone Soup: yogurt, baking powder, butter, basil, chicken, cheese
+Pumpkin Pie: honey, baking powder, flour, olive oil, chili, salt, onion, beans
+Banana Bread: beans, lettuce, bread, onion, milk, cinnamon
+Apple Pie: spaghetti, olive oil, celery, eggs, garlic, cocoa powder
+Garlic Bread: Caesar dressing, lettuce, beef, flour, olive oil
+Fish and Chips: cocoa powder, honey, pepper, corn, carrots, apple, shrimp, olive oil
+Beef Tacos: chili, spaghetti, basil, celery, salt, baking powder, eggs
+Cheeseburger: broccoli, celery, milk, garlic, rice, Caesar dressing, honey
+Tomato Soup: chili, parmesan cheese, tomatoes, corn, shrimp
+Fish and Chips: beef, rice, bread, tomatoes, broccoli, potatoes, minced meat
+Fish and Chips: honey, eggs, shrimp, spaghetti, chili, onion, tomatoes, milk
+Caesar Salad: garlic, beef, minced meat, Caesar dressing, potatoes, milk
+Egg Salad: minced meat, milk, onion, cocoa powder, shrimp, Caesar dressing, butter, fish
+Chocolate Cake: cinnamon, celery, croutons, milk, spaghetti, basil, flour
+Cheeseburger: butter, corn, parmesan cheese, croutons, cocoa powder
+Minestrone Soup: milk, honey, bread, pepper, flour, cocoa powder, spinach, salt
+Caesar Salad: bread, lettuce, vanilla, celery, Caesar dressing
+Shrimp Scampi: baking powder, cinnamon, mushrooms, bread, celery, broccoli
+Garlic Bread: beef, olive oil, milk, garlic, pasta, cinnamon, rice
+Fish and Chips: mushrooms, eggs, flour, spaghetti, yogurt
+Stuffed Peppers: bread, sugar, minced meat, broccoli, fish, shrimp, onion
+Roast Chicken: corn, salt, chili, lemon, mushrooms, garlic, vanilla
+Mashed Potatoes: pepper, sugar, Caesar dressing, broccoli, cinnamon
+Minestrone Soup: beef, cocoa powder, broccoli, garlic, yogurt
+Minestrone Soup: cinnamon, spaghetti, Caesar dressing, parmesan cheese, yogurt, apple, salt
+Stuffed Peppers: olive oil, onion, honey, sugar, salt, apple
+Lentil Soup: cheese, cream, butter, spinach, milk, Caesar dressing, fish, beef
+Fish and Chips: Caesar dressing, pepper, lemon, pasta, eggs
+Pancakes: basil, yogurt, croutons, lettuce, cocoa powder, olive oil, honey
+Tomato Soup: tomatoes, celery, cinnamon, croutons, vanilla, lemon
+Fish and Chips: spinach, carrots, beans, shrimp, tomatoes
+Tomato Soup: cinnamon, butter, fish, tomatoes, milk, baking powder
+Tomato Soup: yogurt, pepper, mushrooms, beef, celery, fish, olive oil, minced meat
+Lasagna: cream, honey, beef, cocoa powder, bread, vanilla, onion
+Pumpkin Pie: Caesar dressing, potatoes, chicken, carrots, spaghetti, pasta, corn
+Stuffed Peppers: butter, onion, pepper, chili, spinach, carrots
+Stuffed Peppers: minced meat, garlic, cream, butter, lettuce, flour, beef, vanilla
+Lentil Soup: cinnamon, chicken, flour, croutons, cream, milk, celery, shrimp
+Egg Salad: corn, cream, honey, cheese, celery
+Minestrone Soup: minced meat, baking powder, spinach, spaghetti, chili, beans, tomatoes
+Minestrone Soup: basil, eggs, tomatoes, broccoli, shrimp
+Lentil Soup: celery, cheese, vanilla, lettuce, flour, milk
+Roast Chicken: parmesan cheese, celery, rice, lettuce, yogurt, chicken, vanilla
+Egg Salad: milk, sugar, cream, bread, broccoli, beef, spaghetti, butter
+Apple Pie: lettuce, basil, cinnamon, mushrooms, salt, tomatoes
+Fish and Chips: honey, cocoa powder, shrimp, carrots, fish, pepper
+Minestrone Soup: baking powder, lettuce, shrimp, minced meat, eggs
+Shrimp Scampi: celery, yogurt, butter, lettuce, pasta
+Spaghetti Bolognese: bread, cinnamon, milk, vanilla, beans, celery, Caesar dressing
+Mashed Potatoes: spinach, pasta, chili, parmesan cheese, yogurt, cheese, croutons, olive oil
+Apple Pie: lemon, onion, basil, pepper, milk, garlic, pasta, cream
+Cheeseburger: sugar, corn, garlic, cocoa powder, cinnamon, milk, chicken, rice
+Apple Pie: cocoa powder, chili, salt, eggs, mushrooms
+Vegetable Stir Fry: yogurt, minced meat, fish, spinach, shrimp, salt, celery
+Shrimp Scampi: onion, tomatoes, parmesan cheese, fish, sugar
+Spaghetti Bolognese: broccoli, pasta, minced meat, shrimp, mushrooms, beans, beef
+Chocolate Cake: cinnamon, vanilla, tomatoes, yogurt, beans, apple, baking powder
+Caesar Salad: celery, broccoli, carrots, spaghetti, baking powder, cream, beans, rice
+Fish and Chips: broccoli, mushrooms, cheese, milk, sugar, minced meat, yogurt
+Pancakes: Caesar dressing, cheese, broccoli, garlic, beans
+Lasagna: eggs, cream, chili, vanilla, lettuce
+Apple Pie: cinnamon, bread, chicken, pasta, cheese, pepper
+Beef Tacos: pasta, honey, minced meat, spaghetti, pepper
+Vegetable Stir Fry: fish, broccoli, mushrooms, sugar, corn, butter
+Caesar Salad: pasta, chicken, Caesar dressing, parmesan cheese, eggs, butter
+Chocolate Cake: eggs, chili, tomatoes, milk, butter, Caesar dressing, corn, celery
+Beef Tacos: olive oil, tomatoes, lettuce, bread, potatoes, croutons, pepper, garlic
+Lentil Soup: shrimp, chili, beans, beef, cheese, mushrooms, vanilla, fish
+Stuffed Peppers: honey, sugar, flour, cheese, mushrooms, yogurt, potatoes
+Grilled Cheese Sandwich: spaghetti, parmesan cheese, cocoa powder, celery, olive oil
+Vegetable Stir Fry: bread, butter, honey, sugar, chicken, garlic, lettuce
+Tomato Soup: carrots, bread, tomatoes, pasta, cheese, yogurt, spinach
+Pancakes: onion, carrots, chicken, spaghetti, milk, sugar
+Mashed Potatoes: eggs, shrimp, mushrooms, milk, cocoa powder
+Pancakes: apple, chicken, tomatoes, eggs, spinach, carrots
+Apple Pie: pasta, olive oil, apple, lettuce, basil, onion, Caesar dressing
+Roast Chicken: bread, cream, carrots, vanilla, lettuce, cheese, Caesar dressing, basil
+Shrimp Scampi: beef, mushrooms, cocoa powder, tomatoes, beans, salt, yogurt, rice
+Banana Bread: bread, shrimp, spinach, pasta, Caesar dressing, spaghetti, basil
+Vegetable Stir Fry: beans, broccoli, yogurt, mushrooms, chicken
+Caesar Salad: potatoes, mushrooms, minced meat, celery, baking powder
+French Toast: cocoa powder, chili, tomatoes, spinach, pepper, chicken
+Garlic Bread: beef, cinnamon, mushrooms, pepper, apple, lemon, eggs, bread
+Caesar Salad: pasta, pepper, garlic, carrots, bread, minced meat, cheese, honey
+Caesar Salad: baking powder, sugar, parmesan cheese, garlic, flour, mushrooms, potatoes, lettuce
+Roast Chicken: cocoa powder, lettuce, carrots, eggs, tomatoes, corn
+Fish and Chips: cocoa powder, spinach, baking powder, carrots, rice, butter, flour
+Pancakes: onion, spinach, yogurt, honey, apple, flour, rice, tomatoes
+Mashed Potatoes: basil, garlic, lettuce, baking powder, bread, celery, butter
+Minestrone Soup: croutons, lettuce, cocoa powder, onion, spaghetti, garlic
+Banana Bread: tomatoes, apple, garlic, butter, croutons, carrots, spaghetti, cream
+Beef Tacos: cream, pasta, parmesan cheese, bread, pepper, Caesar dressing, cocoa powder, chili
+Lentil Soup: cream, chili, vanilla, pasta, basil, sugar
+Lasagna: cinnamon, butter, beef, parmesan cheese, broccoli, rice
+Grilled Cheese Sandwich: rice, basil, cinnamon, shrimp, broccoli, beans, mushrooms, bread
+Spaghetti Bolognese: lettuce, shrimp, vanilla, olive oil, basil, tomatoes, sugar
+Fish and Chips: beef, chili, spinach, croutons, minced meat
+Chocolate Cake: pasta, tomatoes, garlic, potatoes, sugar, salt, flour
+Garlic Bread: spaghetti, yogurt, lemon, butter, cheese, basil, potatoes
+Banana Bread: cocoa powder, eggs, chili, corn, basil, cream, onion
+Grilled Cheese Sandwich: cream, garlic, eggs, mushrooms, minced meat, lemon
+Minestrone Soup: flour, salt, potatoes, cream, shrimp, minced meat, broccoli
+Pumpkin Pie: baking powder, carrots, onion, pepper, cinnamon, garlic, corn
+Garlic Bread: apple, spaghetti, chicken, cheese, cocoa powder, lemon
+Lasagna: parmesan cheese, cinnamon, garlic, tomatoes, potatoes
+Spaghetti Bolognese: broccoli, chili, butter, apple, pasta, carrots, croutons, sugar
+Mashed Potatoes: onion, Caesar dressing, chili, cocoa powder, parmesan cheese, chicken, corn
+Grilled Cheese Sandwich: olive oil, tomatoes, rice, fish, pasta, basil
+Garlic Bread: vanilla, celery, sugar, spinach, cheese, flour
+Banana Bread: eggs, baking powder, pasta, beef, pepper
+Tomato Soup: milk, baking powder, flour, honey, parmesan cheese, carrots, lettuce
+Shrimp Scampi: parmesan cheese, milk, beef, croutons, cinnamon, beans, honey, basil
+Shrimp Scampi: fish, shrimp, cinnamon, sugar, milk, Caesar dressing, lemon
+Lasagna: cocoa powder, beans, mushrooms, apple, cheese
+Pancakes: baking powder, rice, apple, spaghetti, bread, vanilla
+Chocolate Cake: minced meat, lemon, tomatoes, flour, apple
+Apple Pie: pepper, lemon, spaghetti, tomatoes, bread, salt, milk, garlic
+Apple Pie: apple, Caesar dressing, lettuce, minced meat, butter, chicken, beans, eggs
+Pancakes: eggs, garlic, cinnamon, cheese, butter, lettuce, celery, cream
+Apple Pie: corn, onion, rice, cream, pasta, milk, lemon, basil
+French Toast: broccoli, minced meat, cheese, spaghetti, sugar
+Egg Salad: minced meat, sugar, flour, onion, spaghetti, eggs, bread
+Roast Chicken: eggs, fish, Caesar dressing, milk, cream, celery, lettuce, butter
+Caesar Salad: sugar, chicken, rice, eggs, beans, chili, basil, pepper
+French Toast: beans, yogurt, pepper, onion, pasta, flour
+Egg Salad: basil, flour, olive oil, lettuce, yogurt, carrots, beans, broccoli
+Pumpkin Pie: sugar, baking powder, honey, potatoes, milk, salt, beef, spinach
+Roast Chicken: milk, honey, cheese, spinach, pepper, apple
+Pumpkin Pie: milk, carrots, fish, garlic, sugar, potatoes, vanilla, pepper
+Shrimp Scampi: minced meat, celery, pepper, cocoa powder, chicken, mushrooms
+Chicken Curry: rice, lemon, milk, tomatoes, corn, parmesan cheese, croutons, spinach
+Vegetable Stir Fry: chili, spaghetti, flour, mushrooms, parmesan cheese
+Shrimp Scampi: garlic, cream, basil, milk, minced meat, cheese, spaghetti
+Vegetable Stir Fry: croutons, tomatoes, onion, pasta, minced meat, cocoa powder, Caesar dressing, eggs
+Pumpkin Pie: salt, baking powder, celery, croutons, broccoli, chicken, rice
+Pancakes: salt, lettuce, apple, honey, potatoes
+Chicken Alfredo: chicken, croutons, baking powder, yogurt, parmesan cheese
+Cheeseburger: broccoli, rice, pasta, beans, croutons, onion, spinach
+Apple Pie: minced meat, beef, beans, apple, spinach
+Chocolate Cake: shrimp, salt, beef, spinach, chili
+Garlic Bread: bread, broccoli, pepper, milk, cocoa powder
+Garlic Bread: minced meat, cheese, flour, apple, rice, pepper
+Lasagna: cream, sugar, cheese, parmesan cheese, Caesar dressing, tomatoes, potatoes, cinnamon
+Pumpkin Pie: beef, broccoli, butter, lettuce, chicken, rice
+French Toast: yogurt, beans, potatoes, cocoa powder, vanilla, baking powder, shrimp, celery
+Grilled Cheese Sandwich: rice, minced meat, bread, flour, honey, basil, garlic
+Egg Salad: potatoes, mushrooms, honey, baking powder, celery, flour
+Apple Pie: sugar, croutons, salt, mushrooms, cheese, eggs, yogurt, corn
+Grilled Cheese Sandwich: spinach, salt, beef, bread, potatoes, basil, beans
+Garlic Bread: fish, cocoa powder, eggs, sugar, tomatoes, spinach, pasta
+Fish and Chips: bread, spinach, lemon, cinnamon, tomatoes, flour, honey, chicken
+Cheeseburger: chicken, lemon, tomatoes, eggs, yogurt, parmesan cheese
+Garlic Bread: salt, pepper, corn, cream, spaghetti, pasta, beef, bread
+Fish and Chips: beef, eggs, sugar, basil, minced meat
+Tomato Soup: milk, flour, baking powder, parmesan cheese, tomatoes, corn
+Grilled Cheese Sandwich: Caesar dressing, baking powder, sugar, garlic, tomatoes, mushrooms, croutons, honey
+Shrimp Scampi: spinach, chicken, chili, Caesar dressing, potatoes
+Tomato Soup: celery, minced meat, milk, potatoes, bread, chili, spinach
+Cheeseburger: cream, milk, croutons, bread, honey, lettuce, basil, chili
+Stuffed Peppers: minced meat, carrots, pasta, salt, tomatoes, parmesan cheese
+Apple Pie: beans, cinnamon, spaghetti, chicken, olive oil, garlic, croutons, mushrooms
+Mashed Potatoes: pasta, baking powder, tomatoes, parmesan cheese, shrimp, corn, chicken, eggs
+Shrimp Scampi: butter, tomatoes, onion, milk, apple, lettuce, pepper
+Chocolate Cake: sugar, yogurt, baking powder, beef, bread, spinach, parmesan cheese
+Garlic Bread: pepper, croutons, mushrooms, Caesar dressing, olive oil, chili
+Roast Chicken: chicken, shrimp, parmesan cheese, celery, bread, potatoes, flour, pasta
+Grilled Cheese Sandwich: celery, garlic, parmesan cheese, chili, broccoli, lemon, apple
+French Toast: lemon, parmesan cheese, beans, corn, pepper
+Garlic Bread: lettuce, croutons, carrots, flour, pasta, cheese
+Pancakes: pepper, garlic, eggs, cinnamon, milk, beef, cream, shrimp
+Chicken Curry: corn, vanilla, shrimp, bread, croutons, lettuce, milk, eggs
+Minestrone Soup: chili, broccoli, croutons, chicken, pasta, cinnamon
+Lasagna: shrimp, lemon, sugar, bread, salt, vanilla
+Chicken Alfredo: vanilla, onion, parmesan cheese, pepper, garlic, spaghetti
+Minestrone Soup: celery, basil, eggs, lemon, pepper, beans, butter, vanilla
+Cheeseburger: pasta, fish, olive oil, beans, honey, chicken
+Pancakes: sugar, lemon, mushrooms, beans, pepper
+French Toast: fish, potatoes, garlic, minced meat, bread, chicken, lemon
+Chocolate Cake: carrots, yogurt, chicken, garlic, rice, parmesan cheese, corn
+Banana Bread: flour, cocoa powder, celery, milk, sugar, spinach
+French Toast: yogurt, cinnamon, beans, garlic, pepper, onion
+Banana Bread: beef, eggs, minced meat, lemon, croutons, sugar
+Minestrone Soup: beans, bread, lettuce, fish, apple, eggs, lemon, shrimp
+Grilled Cheese Sandwich: olive oil, mushrooms, spinach, potatoes, flour, tomatoes, celery, cinnamon
+Garlic Bread: shrimp, pepper, fish, beans, basil
+Shrimp Scampi: celery, lemon, apple, potatoes, honey, milk, rice
+Lasagna: cinnamon, beef, basil, eggs, salt
+Pumpkin Pie: beef, fish, cheese, carrots, spinach, rice, shrimp
+Stuffed Peppers: sugar, carrots, fish, flour, lettuce, tomatoes, beef, rice
+Lentil Soup: shrimp, salt, sugar, yogurt, rice, butter, garlic
+Cheeseburger: carrots, cinnamon, cheese, honey, spinach, garlic, parmesan cheese, potatoes
+Beef Tacos: milk, broccoli, shrimp, tomatoes, cocoa powder, rice, potatoes
+French Toast: pasta, rice, onion, broccoli, flour, honey, fish, salt
+Minestrone Soup: lemon, beef, potatoes, parmesan cheese, basil, rice
+Fish and Chips: apple, broccoli, celery, honey, baking powder, beef, milk, potatoes
+French Toast: spaghetti, flour, honey, onion, lettuce, bread, baking powder
+Mashed Potatoes: garlic, corn, cinnamon, butter, olive oil, apple
+Chocolate Cake: chicken, pasta, cocoa powder, spaghetti, olive oil, parmesan cheese, bread, carrots
+Lasagna: corn, rice, cheese, spaghetti, chili
+Chocolate Cake: eggs, tomatoes, baking powder, spaghetti, flour, vanilla, olive oil, parmesan cheese
+Vegetable Stir Fry: chili, beef, salt, pepper, cocoa powder, garlic
+Pancakes: cream, vanilla, broccoli, yogurt, spinach, fish, flour
+Chocolate Cake: vanilla, basil, fish, chicken, pasta, cream, bread, mushrooms
+Banana Bread: vanilla, sugar, chicken, onion, mushrooms
+Cheeseburger: milk, minced meat, apple, carrots, lettuce, flour, garlic, parmesan cheese
+Shrimp Scampi: celery, spaghetti, honey, lemon, flour, parmesan cheese
+Fish and Chips: butter, pasta, parmesan cheese, croutons, beef, shrimp
+Caesar Salad: basil, celery, lettuce, pepper, yogurt
+Fish and Chips: carrots, yogurt, sugar, onion, mushrooms, cinnamon, beans
+Spaghetti Bolognese: beans, yogurt, rice, onion, flour
+Lasagna: salt, tomatoes, sugar, spaghetti, Caesar dressing, cocoa powder
+Chocolate Cake: Caesar dressing, minced meat, rice, flour, olive oil, pepper
+Vegetable Stir Fry: sugar, yogurt, vanilla, honey, butter, minced meat, cream
+Grilled Cheese Sandwich: beef, corn, celery, beans, minced meat, broccoli
+Pancakes: celery, chicken, tomatoes, flour, pepper, beef, cream, parmesan cheese
+Grilled Cheese Sandwich: broccoli, cheese, onion, apple, butter, potatoes, carrots, Caesar dressing
+Garlic Bread: butter, Caesar dressing, apple, flour, garlic, honey, vanilla, olive oil
+Vegetable Stir Fry: potatoes, cream, chili, cocoa powder, salt, vanilla
+Caesar Salad: baking powder, beef, minced meat, spaghetti, cream, croutons
+Grilled Cheese Sandwich: beef, onion, mushrooms, lemon, salt, lettuce, eggs, carrots
+Pancakes: honey, garlic, cinnamon, mushrooms, parmesan cheese, yogurt, rice
+French Toast: sugar, onion, minced meat, spinach, parmesan cheese, lettuce, chicken
+Grilled Cheese Sandwich: garlic, tomatoes, parmesan cheese, spinach, milk, chili, rice
+Caesar Salad: carrots, tomatoes, lemon, mushrooms, croutons, apple
+Pancakes: honey, salt, apple, cheese, baking powder, spaghetti, beef, garlic
+Chicken Alfredo: butter, chili, pasta, croutons, shrimp
+Cheeseburger: butter, flour, beans, potatoes, cheese
+Vegetable Stir Fry: onion, lemon, celery, spaghetti, flour, pepper, Caesar dressing
+Grilled Cheese Sandwich: basil, rice, eggs, beans, olive oil
+Mashed Potatoes: baking powder, butter, cinnamon, lemon, tomatoes, carrots
+Mashed Potatoes: minced meat, cinnamon, cheese, garlic, basil, butter, rice, tomatoes
+Fish and Chips: broccoli, lettuce, parmesan cheese, corn, mushrooms, beans, fish, butter
+Fish and Chips: garlic, pasta, sugar, beans, chicken, carrots, corn
+Roast Chicken: minced meat, sugar, shrimp, Caesar dressing, mushrooms
+Lentil Soup: flour, cream, spinach, milk, pepper, cocoa powder, corn
+Pumpkin Pie: milk, salt, broccoli, sugar, yogurt, pasta
+Mashed Potatoes: garlic, potatoes, flour, apple, croutons, onion
+Shrimp Scampi: beans, potatoes, baking powder, pasta, lettuce, broccoli, flour
+Grilled Cheese Sandwich: cinnamon, broccoli, potatoes, garlic, parmesan cheese, cream, fish, sugar
+Stuffed Peppers: minced meat, garlic, pasta, yogurt, tomatoes
+Lentil Soup: spinach, corn, fish, beef, minced meat, parmesan cheese, cocoa powder
+Chicken Curry: basil, rice, spinach, parmesan cheese, spaghetti, sugar, fish
+Minestrone Soup: parmesan cheese, lemon, mushrooms, croutons, minced meat
+Banana Bread: cheese, chili, olive oil, lettuce, basil
+Beef Tacos: basil, chili, celery, baking powder, yogurt, mushrooms, honey, olive oil
+Stuffed Peppers: basil, olive oil, carrots, chili, corn, beef, apple
+Beef Tacos: butter, rice, spinach, lemon, cocoa powder, celery
+Apple Pie: fish, minced meat, celery, cocoa powder, corn, croutons, chicken
+Beef Tacos: mushrooms, cinnamon, salt, olive oil, cream, tomatoes
+Chicken Alfredo: baking powder, cocoa powder, celery, sugar, minced meat, broccoli
+Chicken Curry: parmesan cheese, mushrooms, basil, bread, croutons, cocoa powder, beef
+Egg Salad: broccoli, potatoes, chili, rice, Caesar dressing
+Egg Salad: eggs, honey, pepper, broccoli, olive oil, cheese, parmesan cheese
+Garlic Bread: pasta, honey, baking powder, sugar, flour, spinach
+Beef Tacos: fish, basil, chicken, rice, carrots, yogurt, beans, pepper
+Pumpkin Pie: flour, pepper, lettuce, potatoes, chicken, cheese, eggs
+French Toast: flour, tomatoes, celery, olive oil, lemon, broccoli
+Garlic Bread: olive oil, parmesan cheese, chili, lemon, broccoli, sugar, cheese, lettuce
+Chicken Alfredo: salt, tomatoes, cocoa powder, spaghetti, chicken
+Roast Chicken: olive oil, mushrooms, spaghetti, lettuce, croutons, parmesan cheese, sugar, flour
+Lasagna: croutons, beans, chicken, salt, cinnamon, celery, carrots, sugar
+Egg Salad: tomatoes, honey, baking powder, corn, cheese, parmesan cheese, beef, potatoes
+Caesar Salad: pasta, flour, garlic, croutons, yogurt
+Roast Chicken: vanilla, honey, beef, celery, garlic
+Chicken Curry: beef, corn, spinach, lettuce, potatoes, butter, milk
+Pancakes: salt, pepper, mushrooms, lemon, chicken, honey, cheese
+Garlic Bread: salt, cinnamon, cream, chicken, rice
+Egg Salad: fish, basil, minced meat, parmesan cheese, shrimp
+Shrimp Scampi: shrimp, broccoli, beans, cheese, pepper
+Stuffed Peppers: beef, milk, bread, corn, shrimp, minced meat, flour, yogurt
+Chocolate Cake: mushrooms, beef, onion, broccoli, parmesan cheese, cocoa powder, Caesar dressing, chicken
+Chicken Alfredo: onion, milk, garlic, cream, salt, corn, olive oil
+Cheeseburger: shrimp, flour, minced meat, spaghetti, Caesar dressing
+Egg Salad: milk, garlic, mushrooms, broccoli, onion
+Caesar Salad: carrots, parmesan cheese, onion, cocoa powder, potatoes, salt, eggs, garlic
+Pumpkin Pie: lemon, cocoa powder, sugar, garlic, flour
+Pancakes: lettuce, baking powder, milk, broccoli, flour, eggs, cocoa powder
+Pumpkin Pie: baking powder, spinach, flour, basil, chili, beans, minced meat, lemon
+Roast Chicken: sugar, Caesar dressing, tomatoes, garlic, cocoa powder
+Lasagna: baking powder, pasta, bread, Caesar dressing, cheese, croutons, spaghetti
+Spaghetti Bolognese: bread, cinnamon, eggs, lettuce, beans
+Egg Salad: onion, salt, potatoes, mushrooms, bread, yogurt, Caesar dressing
+Caesar Salad: rice, fish, minced meat, baking powder, pepper, croutons
+Lasagna: cocoa powder, bread, eggs, garlic, cinnamon, flour, cheese, sugar
+Beef Tacos: cinnamon, lemon, yogurt, spaghetti, flour, cheese, onion
+Caesar Salad: eggs, garlic, potatoes, pasta, Caesar dressing
+Egg Salad: sugar, mushrooms, lemon, honey, vanilla
+Vegetable Stir Fry: corn, eggs, spaghetti, honey, shrimp, rice, broccoli
+Tomato Soup: bread, cheese, chicken, tomatoes, shrimp, mushrooms
+Cheeseburger: broccoli, lemon, cinnamon, celery, cream
+Beef Tacos: honey, rice, apple, sugar, cocoa powder, salt
+Spaghetti Bolognese: fish, minced meat, onion, cinnamon, eggs, pasta
+Tomato Soup: carrots, chili, lemon, minced meat, mushrooms
+Shrimp Scampi: corn, chicken, baking powder, rice, chili, tomatoes
+Lentil Soup: cocoa powder, beef, onion, mushrooms, butter
+Grilled Cheese Sandwich: eggs, spaghetti, mushrooms, parmesan cheese, cream
+Tomato Soup: chicken, tomatoes, beans, cream, onion
+French Toast: honey, bread, garlic, minced meat, shrimp, butter
+Chicken Curry: tomatoes, chicken, croutons, cocoa powder, shrimp, olive oil, lettuce, corn
+Mashed Potatoes: salt, pepper, spinach, cheese, eggs, mushrooms, sugar
+Stuffed Peppers: spaghetti, cinnamon, cocoa powder, mushrooms, spinach, minced meat
+Spaghetti Bolognese: mushrooms, fish, carrots, milk, Caesar dressing
+Chicken Alfredo: basil, cinnamon, garlic, celery, parmesan cheese, potatoes, milk, lemon
+Roast Chicken: Caesar dressing, croutons, milk, apple, bread, cheese
+Caesar Salad: basil, minced meat, mushrooms, lettuce, pepper, tomatoes, croutons
+Chocolate Cake: cocoa powder, salt, carrots, bread, pasta, shrimp, apple, croutons
+Lentil Soup: beef, baking powder, spinach, milk, spaghetti, cream
+Grilled Cheese Sandwich: apple, shrimp, baking powder, chili, cream, pasta
+Beef Tacos: cinnamon, butter, shrimp, yogurt, cheese, cocoa powder, pasta, broccoli
+Shrimp Scampi: shrimp, lemon, fish, bread, chili, carrots, yogurt
+Stuffed Peppers: flour, cream, shrimp, pepper, beans
+Chicken Curry: cream, chicken, chili, tomatoes, beans, pasta, eggs, spinach
+Stuffed Peppers: cheese, vanilla, eggs, broccoli, pasta, potatoes, baking powder, fish
+Vegetable Stir Fry: olive oil, baking powder, milk, honey, corn, minced meat, beef
+Vegetable Stir Fry: cheese, beef, cream, spinach, basil, chicken, mushrooms, cocoa powder
+Cheeseburger: butter, pepper, lemon, corn, cinnamon, bread
+Beef Tacos: Caesar dressing, garlic, lemon, pepper, tomatoes, pasta, croutons, beef
+Tomato Soup: parmesan cheese, bread, basil, corn, butter
+Minestrone Soup: milk, corn, vanilla, Caesar dressing, olive oil, cinnamon, mushrooms
+Stuffed Peppers: fish, cocoa powder, chicken, rice, lemon
+Pumpkin Pie: pasta, chicken, cocoa powder, honey, tomatoes
+Stuffed Peppers: broccoli, onion, olive oil, garlic, rice, beans, chili
+Minestrone Soup: lemon, shrimp, onion, cocoa powder, baking powder, cinnamon
+Caesar Salad: minced meat, fish, cream, flour, lettuce, milk
+Pancakes: vanilla, cinnamon, tomatoes, onion, carrots, bread, shrimp, honey
+Apple Pie: spinach, parmesan cheese, eggs, lemon, pepper, shrimp
+Grilled Cheese Sandwich: vanilla, parmesan cheese, corn, spinach, baking powder, yogurt, mushrooms
+Tomato Soup: honey, corn, yogurt, flour, cheese, fish
+Stuffed Peppers: bread, spinach, beans, salt, apple
+Pancakes: bread, eggs, honey, vanilla, onion, shrimp, minced meat
+Cheeseburger: cream, eggs, onion, apple, beans, chicken, cocoa powder, celery
+Lentil Soup: garlic, pepper, eggs, potatoes, pasta, olive oil
+French Toast: fish, shrimp, rice, broccoli, carrots, milk
+Shrimp Scampi: corn, onion, bread, olive oil, pepper
+French Toast: mushrooms, pasta, basil, flour, spinach, yogurt
+Roast Chicken: lemon, fish, onion, carrots, pasta, shrimp, celery, parmesan cheese
+Banana Bread: honey, onion, olive oil, shrimp, milk, salt, croutons, vanilla
+Lentil Soup: olive oil, spinach, beef, Caesar dressing, cream, salt, tomatoes, lettuce
+Egg Salad: croutons, broccoli, cinnamon, shrimp, tomatoes, chili
+Fish and Chips: butter, spinach, minced meat, salt, yogurt, pasta, tomatoes, basil
+Vegetable Lasagna: celery, cinnamon, olive oil, lettuce, tomatoes, chicken
+Quiche Lorraine: sugar, carrots, potatoes, onion, broccoli
+Beef Stew: shrimp, spinach, fish, carrots, salt, chicken, bread, cocoa powder
+Gnocchi: cocoa powder, spinach, croutons, fish, yogurt, celery
+Chili Con Carne: sugar, cocoa powder, mushrooms, spaghetti, broccoli, cheese, baking powder
+Fettuccine Carbonara: potatoes, croutons, shrimp, celery, chili, cocoa powder
+Chili Con Carne: fish, basil, broccoli, sugar, cinnamon, mushrooms, shrimp
+Zucchini Bread: tomatoes, rice, apple, chili, garlic, lemon, parmesan cheese, cream
+Cabbage Rolls: cocoa powder, minced meat, olive oil, vanilla, pepper, garlic, apple
+Beef Stew: minced meat, milk, spaghetti, beans, lettuce, rice, croutons, mushrooms
+Pad Thai: flour, salt, chili, butter, corn
+Gnocchi: sugar, rice, broccoli, lettuce, apple, milk, flour
+Clam Chowder: garlic, pepper, cream, butter, vanilla, apple, flour
+Cranberry Sauce: salt, flour, cream, cocoa powder, cheese, croutons, basil, tomatoes
+Chili Con Carne: baking powder, Caesar dressing, cocoa powder, tomatoes, yogurt, flour
+Chili Con Carne: pepper, tomatoes, vanilla, milk, sugar, mushrooms, cinnamon, beans
+Tuna Salad: potatoes, rice, butter, honey, carrots, tomatoes
+Fettuccine Carbonara: sugar, potatoes, baking powder, garlic, olive oil
+Cabbage Rolls: rice, chicken, yogurt, honey, Caesar dressing
+Cabbage Rolls: cream, croutons, milk, basil, beef, butter, sugar, cocoa powder
+Peach Cobbler: chicken, milk, cream, tomatoes, basil, mushrooms
+Quiche Lorraine: croutons, spinach, broccoli, eggs, corn, chicken, chili
+Vegetable Lasagna: Caesar dressing, salt, spinach, cocoa powder, chili, vanilla
+Chicken Soup: yogurt, pasta, parmesan cheese, beans, flour
+Vegetable Curry: chili, spaghetti, salt, flour, yogurt, parmesan cheese
+Chicken Soup: chicken, chili, pepper, flour, onion
+Falafel: chili, beef, beans, potatoes, cocoa powder, basil, tomatoes, milk
+Cranberry Sauce: cream, croutons, spinach, Caesar dressing, cinnamon, tomatoes, salt, rice
+Pasta Salad: flour, lettuce, rice, beans, salt
+Pad Thai: olive oil, parmesan cheese, corn, honey, cinnamon
+Chicken Soup: minced meat, salt, shrimp, bread, corn, basil
+Vegetable Lasagna: flour, basil, beef, spaghetti, sugar, chili
+Vegetable Curry: pasta, olive oil, honey, salt, chicken, butter
+Vegetable Curry: olive oil, apple, carrots, spaghetti, honey, baking powder, chicken
+Peach Cobbler: celery, lemon, potatoes, cocoa powder, apple, butter, vanilla
+Shepherd's Pie: shrimp, chili, tomatoes, cheese, potatoes
+Grilled Vegetables: minced meat, shrimp, salt, croutons, mushrooms, pasta, chili
+Fruit Salad: flour, broccoli, garlic, beans, corn, pasta, cinnamon
+Meatloaf: garlic, yogurt, potatoes, onion, lemon, shrimp, milk, minced meat
+Mango Smoothie: spaghetti, carrots, minced meat, parmesan cheese, salt, potatoes, tomatoes, cheese
+Beef Stew: celery, broccoli, fish, lemon, pepper, chili, rice
+Turkey Sandwich: salt, potatoes, corn, spinach, flour
+Shepherd's Pie: fish, bread, tomatoes, spaghetti, lettuce, croutons
+Pasta Salad: eggs, butter, tomatoes, sugar, beans, mushrooms, flour
+Beef Stew: cream, cinnamon, broccoli, spaghetti, tomatoes, chicken
+Vegetable Lasagna: yogurt, milk, onion, eggs, minced meat, fish, pasta
+Turkey Sandwich: broccoli, vanilla, chili, potatoes, fish
+Pad Thai: milk, spaghetti, corn, garlic, Caesar dressing
+Peach Cobbler: minced meat, lettuce, chili, onion, potatoes
+Gnocchi: pepper, potatoes, broccoli, chili, honey, cocoa powder, tomatoes, pasta
+Falafel: rice, spinach, beef, fish, tomatoes
+Quiche Lorraine: cocoa powder, parmesan cheese, spaghetti, shrimp, apple
+Vegetable Curry: lettuce, garlic, eggs, spaghetti, fish
+Omelette: beef, vanilla, lemon, shrimp, celery, rice
+Meatloaf: rice, cream, spaghetti, croutons, olive oil
+Pasta Salad: garlic, milk, corn, lettuce, bread, flour, tomatoes, onion
+Vegetable Lasagna: spinach, baking powder, chicken, olive oil, broccoli, salt, lettuce
+Quiche Lorraine: milk, honey, sugar, parmesan cheese, cinnamon, butter
+Pad Thai: lettuce, beef, butter, cheese, yogurt
+Quiche Lorraine: basil, spinach, fish, chicken, lettuce, apple, flour
+Mango Smoothie: pepper, cheese, vanilla, lettuce, broccoli, pasta
+Grilled Vegetables: chili, minced meat, rice, mushrooms, yogurt
+Meatloaf: cinnamon, olive oil, milk, bread, cocoa powder, potatoes
+Vegetable Lasagna: chicken, mushrooms, olive oil, broccoli, Caesar dressing, sugar, milk
+Chicken Soup: tomatoes, bread, garlic, spinach, cream, cinnamon, beef, broccoli
+Quiche Lorraine: pepper, tomatoes, olive oil, onion, beef, cheese, salt, milk
+Mango Smoothie: pepper, fish, broccoli, cinnamon, lettuce, butter, milk, chili
+Grilled Vegetables: honey, bread, shrimp, broccoli, chicken, carrots, cream, minced meat
+Vegetable Curry: salt, spaghetti, cheese, tomatoes, rice, yogurt
+Grilled Vegetables: rice, beans, cinnamon, cream, chili, broccoli
+Peach Cobbler: corn, vanilla, spaghetti, mushrooms, broccoli, pepper, beef, bread
+Clam Chowder: baking powder, vanilla, eggs, butter, apple
+Grilled Vegetables: yogurt, garlic, cocoa powder, rice, spinach, olive oil
+Pasta Salad: shrimp, yogurt, tomatoes, cheese, croutons
+Pad Thai: cream, Caesar dressing, spinach, mushrooms, beef, bread
+Vegetable Lasagna: apple, garlic, honey, cocoa powder, parmesan cheese
+Vegetable Curry: celery, honey, cream, cheese, sugar, chicken, lettuce, eggs
+Quiche Lorraine: bread, Caesar dressing, cheese, vanilla, corn, carrots
+Quiche Lorraine: flour, croutons, chicken, basil, yogurt, broccoli
+Chili Con Carne: broccoli, potatoes, croutons, corn, celery
+Meatloaf: potatoes, corn, baking powder, butter, broccoli, lemon, carrots
+Omelette: eggs, minced meat, corn, milk, cheese, croutons
+Grilled Vegetables: garlic, chicken, apple, parmesan cheese, vanilla, corn
+Quiche Lorraine: chicken, cinnamon, beans, spaghetti, fish, pasta
+Tuna Salad: fish, minced meat, croutons, basil, pepper, yogurt, cinnamon, beans
+BBQ Ribs: honey, milk, garlic, spaghetti, vanilla, baking powder
+Shepherd's Pie: yogurt, lemon, apple, beans, onion, Caesar dressing, garlic, minced meat
+BBQ Ribs: potatoes, cinnamon, salt, chicken, yogurt, carrots, sugar
+Tuna Salad: celery, vanilla, tomatoes, spaghetti, broccoli, cream, pasta, Caesar dressing
+Falafel: celery, pasta, parmesan cheese, beans, spinach
+Shepherd's Pie: fish, pasta, olive oil, tomatoes, baking powder, spaghetti
+Pasta Salad: cream, beef, chicken, tomatoes, milk, beans
+Chicken Soup: baking powder, lemon, apple, tomatoes, broccoli, honey, beans
+Vegetable Lasagna: eggs, sugar, pepper, carrots, rice
+Shepherd's Pie: salt, broccoli, beans, chicken, pasta, shrimp
+Gnocchi: shrimp, croutons, celery, beans, olive oil, sugar, fish
+Omelette: croutons, spaghetti, corn, beef, vanilla, broccoli, salt, minced meat
+Tuna Salad: Caesar dressing, bread, honey, pepper, potatoes
+Zucchini Bread: rice, cinnamon, croutons, chicken, butter, pasta, parmesan cheese, chili
+Vegetable Lasagna: broccoli, garlic, croutons, cocoa powder, lettuce, potatoes, minced meat, butter
+Vegetable Lasagna: celery, cocoa powder, corn, lettuce, baking powder, shrimp, beef
+Gnocchi: cream, shrimp, spinach, corn, basil, cocoa powder, chicken
+Cranberry Sauce: salt, Caesar dressing, potatoes, rice, tomatoes, beans, pepper
+Vegetable Lasagna: basil, olive oil, rice, flour, tomatoes
+Grilled Vegetables: olive oil, cinnamon, tomatoes, potatoes, eggs
+Mango Smoothie: corn, baking powder, tomatoes, croutons, spinach
+Quiche Lorraine: tomatoes, yogurt, minced meat, spaghetti, chili
+Fettuccine Carbonara: minced meat, garlic, flour, corn, lettuce, butter, carrots, milk
+Chicken Soup: cinnamon, salt, pasta, bread, pepper, spinach, tomatoes
+BBQ Ribs: vanilla, cream, shrimp, honey, mushrooms, chicken, chili
+Tuna Salad: basil, carrots, onion, corn, eggs, parmesan cheese
+Pad Thai: tomatoes, chicken, pepper, cocoa powder, corn, cream, salt
+Zucchini Bread: spinach, bread, garlic, pepper, cream, baking powder, sugar
+Mango Smoothie: chicken, cocoa powder, apple, chili, mushrooms
+Gnocchi: Caesar dressing, vanilla, flour, honey, shrimp, corn, eggs, milk
+Mango Smoothie: olive oil, butter, apple, honey, milk, sugar, pasta, cream
+Tuna Salad: lemon, bread, chili, onion, honey
+Shepherd's Pie: beans, milk, spaghetti, yogurt, carrots
+Cranberry Sauce: shrimp, yogurt, basil, rice, lemon, celery, garlic, spinach
+Zucchini Bread: onion, milk, tomatoes, rice, pasta, corn, cream
+Shepherd's Pie: flour, pasta, croutons, basil, garlic, cinnamon
+Fettuccine Carbonara: bread, chili, baking powder, celery, pasta, mushrooms, beef
+Pasta Salad: cocoa powder, garlic, vanilla, flour, tomatoes
+Turkey Sandwich: broccoli, spinach, pepper, chili, tomatoes
+Meatloaf: beef, spaghetti, rice, vanilla, shrimp, basil, beans
+Shepherd's Pie: cinnamon, spinach, honey, baking powder, bread
+Falafel: potatoes, salt, bread, sugar, baking powder
+Cranberry Sauce: cocoa powder, corn, sugar, bread, lettuce, garlic, chicken, onion
+Zucchini Bread: vanilla, chicken, beans, onion, eggs
+BBQ Ribs: butter, baking powder, mushrooms, chicken, chili
+Meatloaf: chicken, parmesan cheese, chili, fish, cocoa powder, honey, yogurt
+Fruit Salad: bread, corn, carrots, vanilla, rice, beans, shrimp
+Pasta Salad: cream, spinach, pepper, bread, broccoli, yogurt
+Beef Stew: Caesar dressing, flour, baking powder, yogurt, potatoes, cocoa powder, chicken
+Pasta Salad: vanilla, broccoli, cocoa powder, rice, yogurt, carrots, cinnamon, beans
+Gnocchi: fish, onion, lettuce, pepper, mushrooms, Caesar dressing
+Meatloaf: mushrooms, beef, parmesan cheese, sugar, honey, Caesar dressing
+Gnocchi: olive oil, cheese, tomatoes, butter, cream, flour, cocoa powder
+Fruit Salad: parmesan cheese, garlic, salt, onion, tomatoes
+Cranberry Sauce: olive oil, cinnamon, broccoli, onion, chili, eggs, baking powder
+Clam Chowder: beans, flour, salt, eggs, cinnamon, tomatoes, bread
+Meatloaf: onion, beans, sugar, apple, pepper, flour, lemon, corn
+Chicken Soup: parmesan cheese, broccoli, basil, vanilla, apple
+Quiche Lorraine: salt, chili, eggs, cinnamon, pasta, honey, beans, potatoes
+Pad Thai: shrimp, lemon, garlic, rice, flour, tomatoes, mushrooms, olive oil
+Omelette: croutons, lemon, honey, pepper, cream, apple, carrots, chicken
+Vegetable Curry: pepper, cream, pasta, olive oil, flour, butter, garlic
+Tuna Salad: pasta, garlic, carrots, pepper, beef, croutons, bread, Caesar dressing
+Beef Stew: baking powder, celery, beans, salt, tomatoes, mushrooms, carrots
+Quiche Lorraine: honey, flour, pepper, fish, potatoes, minced meat, apple, beans
+Tuna Salad: parmesan cheese, corn, basil, croutons, rice, butter, pepper
+Quiche Lorraine: chicken, olive oil, Caesar dressing, shrimp, spinach, vanilla, basil, eggs
+Vegetable Lasagna: salt, chili, chicken, butter, beef, pepper, lemon
+Pad Thai: cocoa powder, chili, shrimp, lemon, vanilla, honey, mushrooms
+Tuna Salad: apple, cream, rice, tomatoes, bread
+Cabbage Rolls: potatoes, apple, yogurt, chicken, olive oil, cheese, cinnamon, shrimp
+Fruit Salad: vanilla, shrimp, carrots, garlic, flour, onion, pasta, lettuce
+Mango Smoothie: croutons, yogurt, bread, cocoa powder, corn
+Fettuccine Carbonara: celery, mushrooms, potatoes, honey, yogurt, flour, shrimp, rice
+Falafel: salt, potatoes, sugar, vanilla, apple
+Tuna Salad: olive oil, butter, minced meat, cheese, garlic, baking powder, pasta
+Clam Chowder: pasta, parmesan cheese, spinach, garlic, salt, yogurt
+Mango Smoothie: parmesan cheese, chili, salt, beef, bread, butter, Caesar dressing
+Omelette: beans, chicken, salt, pasta, lemon, croutons, cream
+Cranberry Sauce: croutons, chili, bread, fish, cheese, apple, minced meat
+Peach Cobbler: broccoli, bread, pasta, celery, olive oil, mushrooms
+Beef Stew: lemon, carrots, potatoes, chicken, olive oil
+Falafel: pasta, honey, Caesar dressing, spaghetti, fish, basil, bread, garlic
+Shepherd's Pie: flour, milk, mushrooms, baking powder, honey, cocoa powder, corn, beans
+Cabbage Rolls: potatoes, cocoa powder, olive oil, pepper, vanilla, basil
+Vegetable Curry: minced meat, eggs, lettuce, vanilla, carrots, salt
+Quiche Lorraine: beef, potatoes, onion, rice, honey, vanilla
+Chili Con Carne: lettuce, shrimp, butter, celery, broccoli, beef, potatoes
+Cabbage Rolls: butter, rice, beef, spaghetti, celery, cream, honey, corn
+Pasta Salad: shrimp, onion, potatoes, spaghetti, corn, beans, basil
+Shepherd's Pie: baking powder, chicken, spaghetti, olive oil, parmesan cheese, pepper, bread
+Pad Thai: tomatoes, potatoes, cheese, chili, corn, olive oil
+Zucchini Bread: parmesan cheese, beef, sugar, corn, milk, cocoa powder, chili, baking powder
+Vegetable Lasagna: flour, onion, beef, celery, cream
+Vegetable Lasagna: tomatoes, celery, yogurt, fish, salt
+Beef Stew: tomatoes, pepper, parmesan cheese, spaghetti, shrimp, cinnamon, onion, mushrooms
+Pad Thai: celery, broccoli, fish, apple, chicken
+Quiche Lorraine: broccoli, beef, potatoes, beans, spinach
+Clam Chowder: carrots, basil, eggs, parmesan cheese, fish, beef, tomatoes
+Falafel: olive oil, celery, spaghetti, spinach, beef
+Peach Cobbler: celery, rice, baking powder, minced meat, honey
+Cabbage Rolls: pepper, spinach, chicken, shrimp, tomatoes, spaghetti
+Vegetable Curry: Caesar dressing, olive oil, basil, spaghetti, beef, broccoli, rice
+Cabbage Rolls: lettuce, flour, baking powder, beans, bread, cheese
+Vegetable Curry: cinnamon, lemon, yogurt, shrimp, bread, olive oil
+Chicken Soup: milk, broccoli, mushrooms, pasta, baking powder, sugar
+Chili Con Carne: baking powder, pepper, garlic, cheese, tomatoes, cinnamon
+Falafel: cheese, cream, spaghetti, eggs, shrimp
+Omelette: corn, cinnamon, lemon, flour, vanilla
+Vegetable Lasagna: vanilla, carrots, broccoli, honey, minced meat
+Clam Chowder: honey, parmesan cheese, mushrooms, carrots, chicken
+Pasta Salad: fish, corn, apple, chili, basil, honey, rice
+Mango Smoothie: cinnamon, tomatoes, mushrooms, shrimp, corn, olive oil
+BBQ Ribs: olive oil, beef, corn, pepper, vanilla, celery, minced meat, lemon
+Mango Smoothie: pasta, honey, corn, tomatoes, Caesar dressing, bread, croutons
+BBQ Ribs: onion, yogurt, beans, potatoes, cheese, spinach, olive oil
+Meatloaf: lettuce, cinnamon, tomatoes, yogurt, apple, bread, pepper, carrots
+Grilled Vegetables: honey, rice, shrimp, cinnamon, milk, mushrooms
+Omelette: pepper, minced meat, flour, milk, olive oil
+Zucchini Bread: cream, chicken, beef, tomatoes, baking powder, shrimp
+Tuna Salad: lemon, flour, cocoa powder, bread, tomatoes, carrots, croutons
+Fettuccine Carbonara: tomatoes, mushrooms, lettuce, beef, Caesar dressing, spinach, bread
+Pasta Salad: spinach, cream, vanilla, corn, spaghetti
+Peach Cobbler: baking powder, apple, potatoes, beans, lettuce, chili
+Vegetable Lasagna: olive oil, croutons, fish, shrimp, lemon, pepper, lettuce, carrots
+Peach Cobbler: milk, cheese, baking powder, fish, mushrooms
+Fruit Salad: salt, minced meat, fish, bread, flour, lemon, cocoa powder
+Vegetable Lasagna: onion, chili, minced meat, beans, eggs, corn, mushrooms
+Mango Smoothie: celery, rice, basil, vanilla, spaghetti, garlic, croutons, carrots
+Vegetable Curry: baking powder, apple, milk, corn, mushrooms, spinach, sugar, olive oil
+Vegetable Curry: basil, bread, butter, minced meat, honey, yogurt, flour
+Falafel: garlic, chili, cinnamon, spaghetti, fish, corn
+Vegetable Curry: garlic, potatoes, croutons, flour, onion, olive oil
+Meatloaf: bread, fish, pepper, celery, spaghetti, olive oil
+Meatloaf: yogurt, pasta, flour, chicken, olive oil, cinnamon
+Cranberry Sauce: Caesar dressing, rice, croutons, shrimp, carrots, baking powder
+BBQ Ribs: parmesan cheese, yogurt, milk, apple, broccoli, cinnamon, vanilla
+Shepherd's Pie: lemon, parmesan cheese, yogurt, apple, celery, vanilla
+Fruit Salad: mushrooms, spinach, apple, yogurt, basil, corn
+Omelette: fish, pasta, rice, garlic, mushrooms
+Beef Stew: honey, vanilla, beans, garlic, cream, salt, flour, pepper
+Peach Cobbler: eggs, potatoes, Caesar dressing, minced meat, chicken, spaghetti, parmesan cheese, cocoa powder
+Tuna Salad: tomatoes, shrimp, mushrooms, onion, fish, garlic, chili
+Pad Thai: pasta, cheese, corn, mushrooms, butter
+Chicken Soup: lettuce, yogurt, butter, baking powder, shrimp
+Beef Stew: potatoes, rice, basil, pasta, butter
+Vegetable Lasagna: cinnamon, mushrooms, chicken, olive oil, lemon, tomatoes
+Zucchini Bread: vanilla, basil, carrots, flour, potatoes, garlic, tomatoes
+Pad Thai: shrimp, honey, chicken, sugar, tomatoes
+Zucchini Bread: apple, cheese, salt, butter, cinnamon, pasta
+Clam Chowder: spinach, chili, apple, beans, basil, chicken
+Shepherd's Pie: chili, milk, croutons, salt, honey, rice, fish, cheese
+Cabbage Rolls: cheese, minced meat, broccoli, corn, bread, pasta
+Grilled Vegetables: fish, onion, chili, sugar, croutons
+Pasta Salad: shrimp, tomatoes, sugar, minced meat, rice, honey, corn, cinnamon
+Pasta Salad: cheese, croutons, tomatoes, Caesar dressing, apple, broccoli
+Zucchini Bread: fish, chicken, honey, onion, milk
+Quiche Lorraine: flour, croutons, pepper, garlic, honey, cocoa powder
+Chicken Soup: cocoa powder, onion, chicken, pepper, rice, cinnamon
+Quiche Lorraine: sugar, carrots, cream, celery, butter, salt, olive oil
+Pasta Salad: beans, fish, flour, cheese, minced meat, spinach
+Chicken Soup: onion, broccoli, fish, butter, baking powder, beans
+Tuna Salad: fish, butter, honey, rice, minced meat, celery, lemon, beans
+Quiche Lorraine: celery, spaghetti, shrimp, olive oil, yogurt, butter, garlic
+Chili Con Carne: corn, croutons, sugar, butter, cocoa powder, spinach, flour
+Fruit Salad: tomatoes, honey, beef, yogurt, Caesar dressing, apple
+Omelette: carrots, pasta, lettuce, celery, onion
+Gnocchi: cocoa powder, potatoes, fish, bread, flour, cheese, cinnamon, chicken
+Meatloaf: cinnamon, minced meat, bread, carrots, broccoli, chili, beef, basil
+Fettuccine Carbonara: chili, cheese, lemon, cinnamon, apple, spaghetti, salt, pepper
+Falafel: pepper, cinnamon, garlic, carrots, vanilla, croutons, chicken, bread
+Cranberry Sauce: broccoli, cheese, eggs, olive oil, beans, mushrooms, butter, flour
+Clam Chowder: potatoes, olive oil, lettuce, corn, cheese
+Chili Con Carne: pasta, potatoes, baking powder, honey, fish, chili, vanilla, spaghetti
+Mango Smoothie: salt, spinach, apple, celery, vanilla, eggs
+Shepherd's Pie: bread, cheese, rice, chili, pasta, parmesan cheese, minced meat
+Vegetable Lasagna: cocoa powder, potatoes, chili, spaghetti, milk
+Vegetable Curry: honey, potatoes, cinnamon, corn, Caesar dressing, spinach
+Gnocchi: pasta, parmesan cheese, spaghetti, celery, chili
+BBQ Ribs: spinach, celery, beef, basil, beans, baking powder
+Chili Con Carne: yogurt, cinnamon, broccoli, flour, shrimp, sugar, carrots
+Peach Cobbler: cream, mushrooms, apple, corn, olive oil, chicken
+Pad Thai: cream, parmesan cheese, eggs, lettuce, garlic, rice, chicken
+Peach Cobbler: chicken, chili, salt, flour, shrimp, olive oil, eggs
+Mango Smoothie: milk, cinnamon, spaghetti, celery, cocoa powder, garlic
+Peach Cobbler: pepper, fish, salt, spinach, honey
+Mango Smoothie: basil, olive oil, salt, milk, celery, garlic, onion, parmesan cheese
+Zucchini Bread: yogurt, vanilla, shrimp, cocoa powder, mushrooms, chili, onion, croutons
+Meatloaf: milk, spaghetti, eggs, Caesar dressing, parmesan cheese, garlic, lettuce
+Vegetable Curry: minced meat, shrimp, salt, pepper, beef, eggs, corn
+Vegetable Lasagna: basil, chicken, beans, yogurt, olive oil, sugar, potatoes
+Peach Cobbler: eggs, celery, beef, vanilla, basil, garlic, honey, croutons
+Cranberry Sauce: beans, pepper, garlic, cream, eggs
+Quiche Lorraine: spaghetti, carrots, eggs, salt, pepper
+Falafel: cheese, celery, beans, Caesar dressing, garlic
+Falafel: lemon, sugar, vanilla, cocoa powder, baking powder, chili
+Shepherd's Pie: spinach, vanilla, eggs, milk, minced meat, bread, potatoes, cheese
+Clam Chowder: croutons, beef, tomatoes, eggs, mushrooms, spaghetti
+Gnocchi: corn, onion, shrimp, cheese, cream, rice, spaghetti, chili
+Vegetable Curry: spaghetti, minced meat, beans, salt, spinach, cheese, milk, sugar
+Vegetable Curry: lettuce, apple, cocoa powder, salt, basil
+Clam Chowder: butter, flour, milk, corn, chicken, carrots, spinach
+Mango Smoothie: pasta, broccoli, spinach, cinnamon, sugar, lettuce, tomatoes
+Cranberry Sauce: garlic, shrimp, spinach, lemon, salt
+Zucchini Bread: eggs, vanilla, croutons, lemon, pasta, apple
+Falafel: onion, broccoli, vanilla, basil, eggs, parmesan cheese, baking powder, pasta
+Tuna Salad: broccoli, butter, flour, olive oil, sugar, vanilla, spaghetti, croutons
+Shepherd's Pie: mushrooms, shrimp, vanilla, cocoa powder, cheese, potatoes, apple, pasta
+BBQ Ribs: beans, spinach, pasta, Caesar dressing, basil, pepper
+BBQ Ribs: celery, basil, cocoa powder, fish, broccoli, cheese
+Turkey Sandwich: cocoa powder, garlic, olive oil, butter, baking powder, corn, eggs, spaghetti
+Pad Thai: eggs, pepper, onion, carrots, baking powder, corn, cocoa powder
+BBQ Ribs: parmesan cheese, garlic, olive oil, broccoli, onion
+Mango Smoothie: cream, sugar, spinach, butter, parmesan cheese, salt, pepper, olive oil
+Peach Cobbler: apple, rice, butter, mushrooms, cocoa powder, beef
+Gnocchi: spinach, cinnamon, corn, lemon, pepper
+Cranberry Sauce: apple, celery, minced meat, onion, basil, chili
+Chicken Soup: parmesan cheese, garlic, shrimp, salt, celery, cream
+Omelette: sugar, vanilla, onion, tomatoes, basil, milk, olive oil
+Peach Cobbler: basil, chicken, pepper, spaghetti, honey, flour, milk
+Turkey Sandwich: fish, rice, cocoa powder, mushrooms, cheese, lemon, lettuce, corn
+BBQ Ribs: apple, cheese, celery, pepper, tomatoes, yogurt
+Shepherd's Pie: carrots, beans, yogurt, garlic, potatoes, pasta, olive oil
+Beef Stew: pepper, baking powder, Caesar dressing, olive oil, minced meat
+Mango Smoothie: Caesar dressing, beef, baking powder, vanilla, olive oil, cocoa powder, salt, yogurt
+Beef Stew: celery, eggs, corn, flour, lemon, cheese, cocoa powder, lettuce
+Turkey Sandwich: chicken, corn, beef, vanilla, bread, lettuce
+Meatloaf: milk, fish, croutons, cinnamon, spaghetti, shrimp
+Pasta Salad: lettuce, cocoa powder, cream, broccoli, croutons, cheese, apple, minced meat
+Meatloaf: corn, pasta, beef, cinnamon, beans, cheese
+Cabbage Rolls: mushrooms, spaghetti, lettuce, carrots, spinach, Caesar dressing, bread, celery
+Chicken Soup: flour, cinnamon, pasta, croutons, baking powder, beef, chili, potatoes
+Pasta Salad: carrots, cocoa powder, Caesar dressing, spaghetti, salt
+Shepherd's Pie: chili, salt, minced meat, potatoes, celery
+Fruit Salad: yogurt, parmesan cheese, chili, garlic, cheese, fish, eggs
+Gnocchi: corn, milk, parmesan cheese, chicken, honey, cinnamon, shrimp, mushrooms
+Zucchini Bread: sugar, carrots, cocoa powder, milk, pasta
+Clam Chowder: garlic, croutons, Caesar dressing, lemon, baking powder, beans
+Grilled Vegetables: cream, spaghetti, spinach, garlic, olive oil, vanilla
+Clam Chowder: fish, vanilla, salt, potatoes, parmesan cheese, mushrooms, butter, beef
+Pasta Salad: chili, chicken, mushrooms, sugar, croutons, spinach, Caesar dressing
+Zucchini Bread: cheese, spaghetti, vanilla, milk, carrots, bread, celery
+Meatloaf: baking powder, yogurt, bread, beans, onion
+BBQ Ribs: shrimp, chili, lettuce, beef, corn, celery, croutons
+Turkey Sandwich: sugar, basil, butter, fish, honey
+Quiche Lorraine: vanilla, potatoes, chicken, garlic, eggs, yogurt
+Fruit Salad: corn, milk, olive oil, spaghetti, minced meat, sugar, tomatoes
+Fettuccine Carbonara: basil, broccoli, beef, beans, vanilla, apple, mushrooms, yogurt
+Meatloaf: cheese, yogurt, croutons, celery, potatoes, onion, spaghetti, cinnamon
+Pasta Salad: chili, potatoes, fish, minced meat, cocoa powder, olive oil
+Peach Cobbler: carrots, corn, baking powder, apple, milk, garlic, salt, Caesar dressing
+BBQ Ribs: eggs, garlic, chili, sugar, mushrooms, vanilla, cinnamon, fish
+Gnocchi: olive oil, fish, eggs, chicken, pasta
+Quiche Lorraine: mushrooms, honey, yogurt, chicken, beans
+Omelette: croutons, chicken, chili, garlic, apple, tomatoes, celery, honey
+Zucchini Bread: Caesar dressing, apple, chicken, lemon, potatoes, cream, olive oil, flour
+Fruit Salad: tomatoes, beans, celery, eggs, cinnamon, yogurt
+Vegetable Curry: milk, pepper, cocoa powder, salt, beef, olive oil
+Fruit Salad: corn, baking powder, yogurt, bread, tomatoes, lettuce, garlic, honey
+Vegetable Lasagna: beans, basil, chili, tomatoes, lemon, minced meat, potatoes, broccoli
+Pasta Salad: rice, cheese, beans, cream, spinach, lettuce, eggs
+Beef Stew: shrimp, broccoli, beans, croutons, olive oil, fish, yogurt
+BBQ Ribs: broccoli, spinach, corn, lemon, butter, spaghetti
+Shepherd's Pie: vanilla, Caesar dressing, tomatoes, cocoa powder, minced meat
+Clam Chowder: spaghetti, parmesan cheese, apple, fish, baking powder, Caesar dressing, lettuce
+Shepherd's Pie: rice, sugar, chicken, bread, pepper, salt, lemon, cinnamon
+Zucchini Bread: lemon, minced meat, Caesar dressing, pepper, basil, parmesan cheese, spinach
+Shepherd's Pie: bread, minced meat, olive oil, lettuce, fish, garlic, shrimp, cheese
+Grilled Vegetables: cream, beef, spinach, lemon, cinnamon
+Beef Stew: rice, chicken, carrots, cinnamon, lemon, cream, lettuce
+Falafel: spaghetti, rice, cocoa powder, milk, basil, apple, cream, cinnamon
+Mango Smoothie: cocoa powder, chicken, celery, garlic, parmesan cheese, flour
+Fruit Salad: croutons, salt, Caesar dressing, olive oil, basil, rice, sugar
+Peach Cobbler: cheese, flour, honey, baking powder, eggs, mushrooms, lettuce
+Vegetable Curry: flour, carrots, broccoli, butter, salt, apple, tomatoes, shrimp
+Clam Chowder: lemon, bread, spinach, baking powder, shrimp
+Clam Chowder: olive oil, carrots, yogurt, eggs, bread, lemon, corn
+Zucchini Bread: cocoa powder, sugar, onion, mushrooms, minced meat, apple, yogurt, beef
+Gnocchi: vanilla, spinach, shrimp, minced meat, corn, beef
+Fettuccine Carbonara: lemon, cheese, olive oil, basil, eggs, yogurt, cocoa powder
+Fettuccine Carbonara: corn, spaghetti, beans, butter, cream, cinnamon, tomatoes
+Chili Con Carne: parmesan cheese, cheese, baking powder, tomatoes, apple, flour
+Chili Con Carne: parmesan cheese, potatoes, cream, bread, onion, basil, carrots
+Tuna Salad: celery, cream, spaghetti, cheese, pasta, chili, onion, potatoes
+Meatloaf: basil, yogurt, garlic, beef, pasta
+Beef Stew: cocoa powder, chicken, parmesan cheese, vanilla, tomatoes, spaghetti, Caesar dressing, salt
+Vegetable Lasagna: garlic, olive oil, bread, spinach, cocoa powder, vanilla, corn, yogurt
+Peach Cobbler: mushrooms, bread, cinnamon, flour, minced meat
+Pad Thai: spaghetti, parmesan cheese, celery, vanilla, salt, cinnamon
+Pasta Salad: fish, carrots, eggs, rice, yogurt, spaghetti
+Mango Smoothie: chili, cocoa powder, parmesan cheese, lemon, beans, cinnamon
+Pad Thai: onion, spaghetti, mushrooms, chili, vanilla, eggs, carrots
+Beef Stew: garlic, spaghetti, eggs, celery, onion
+Gnocchi: salt, onion, chili, tomatoes, honey, spinach, shrimp, potatoes
+Cabbage Rolls: basil, minced meat, spaghetti, corn, fish, spinach
+Pad Thai: milk, baking powder, butter, spaghetti, Caesar dressing
+Zucchini Bread: mushrooms, basil, eggs, pasta, flour
+Shepherd's Pie: vanilla, shrimp, spaghetti, olive oil, rice
+Beef Stew: pepper, beef, onion, olive oil, celery
+BBQ Ribs: olive oil, beans, flour, lemon, garlic
+Turkey Sandwich: minced meat, honey, cream, carrots, corn, flour, lettuce, croutons
+Fruit Salad: cream, Caesar dressing, pepper, lettuce, eggs, tomatoes
+Meatloaf: lemon, butter, olive oil, beef, milk, pasta, shrimp, basil
+Mango Smoothie: pepper, chicken, spinach, mushrooms, milk, garlic, corn, onion
+Omelette: parmesan cheese, flour, potatoes, corn, Caesar dressing, baking powder, cheese, tomatoes
+Tuna Salad: chili, carrots, corn, croutons, baking powder, salt
+Chili Con Carne: lettuce, pasta, croutons, yogurt, celery, garlic, Caesar dressing
+Fruit Salad: potatoes, rice, chili, mushrooms, spinach, cheese, beans
+Quiche Lorraine: eggs, Caesar dressing, corn, celery, honey
+Vegetable Curry: bread, salt, tomatoes, fish, basil, broccoli
+Falafel: chili, milk, minced meat, mushrooms, cheese, butter, Caesar dressing, spaghetti
+Pasta Salad: salt, Caesar dressing, pepper, apple, garlic, olive oil
+Shepherd's Pie: olive oil, butter, fish, carrots, spinach, cream
+Chili Con Carne: milk, spinach, potatoes, salt, cocoa powder, rice
+Vegetable Curry: parmesan cheese, vanilla, lemon, sugar, lettuce, chili, tomatoes
+Meatloaf: broccoli, carrots, beans, apple, corn, cinnamon, celery
+Tuna Salad: rice, cinnamon, spaghetti, chicken, olive oil, flour
+Vegetable Curry: flour, celery, shrimp, beans, eggs
+Zucchini Bread: beans, honey, cocoa powder, cinnamon, olive oil, spaghetti, bread
+Shepherd's Pie: apple, bread, beans, onion, chili, cinnamon
+Beef Stew: minced meat, celery, shrimp, Caesar dressing, milk, cream, butter
+Clam Chowder: shrimp, sugar, vanilla, celery, corn
+Quiche Lorraine: flour, cream, onion, parmesan cheese, chili, Caesar dressing, yogurt, minced meat
+Beef Stew: minced meat, beef, apple, potatoes, milk
+Grilled Vegetables: minced meat, cocoa powder, parmesan cheese, apple, spinach
+Cranberry Sauce: spinach, corn, olive oil, minced meat, potatoes, pepper, flour, garlic
+Pad Thai: spinach, carrots, cocoa powder, celery, potatoes, milk
+Fettuccine Carbonara: onion, butter, spaghetti, pepper, celery, cheese
+Clam Chowder: lettuce, beans, broccoli, Caesar dressing, minced meat, carrots
+Zucchini Bread: rice, potatoes, minced meat, sugar, broccoli, fish
+Meatloaf: yogurt, Caesar dressing, honey, milk, beans
+Omelette: beef, chicken, yogurt, Caesar dressing, carrots
+Vegetable Curry: broccoli, celery, corn, flour, tomatoes, milk
+Tuna Salad: butter, beans, celery, cinnamon, yogurt, beef, potatoes
+Fettuccine Carbonara: pasta, cheese, baking powder, basil, cinnamon
+Turkey Sandwich: cocoa powder, basil, broccoli, cinnamon, tomatoes, sugar, yogurt, pepper
+Turkey Sandwich: lettuce, rice, cream, sugar, pepper, baking powder, apple, lemon
+Pasta Salad: broccoli, tomatoes, rice, vanilla, croutons, spaghetti, cocoa powder, beef
+Mango Smoothie: fish, cinnamon, cheese, parmesan cheese, flour, carrots
+Zucchini Bread: eggs, mushrooms, rice, apple, lettuce
+Turkey Sandwich: pepper, beans, olive oil, flour, sugar, garlic, cheese
+Mango Smoothie: cream, bread, corn, apple, milk, garlic
+Pasta Salad: broccoli, celery, cream, carrots, mushrooms
+Beef Stew: carrots, honey, lemon, flour, parmesan cheese, spaghetti
+Mango Smoothie: vanilla, lemon, celery, flour, tomatoes
+Fettuccine Carbonara: salt, honey, broccoli, corn, tomatoes, carrots, onion
+Chicken Soup: Caesar dressing, spaghetti, potatoes, croutons, rice, honey, sugar, vanilla
+Falafel: lemon, Caesar dressing, cheese, minced meat, apple, carrots, sugar
+Zucchini Bread: onion, flour, cheese, olive oil, pasta, lemon, Caesar dressing
+Pad Thai: eggs, corn, honey, celery, chicken, cheese, croutons, pepper
+Peach Cobbler: parmesan cheese, potatoes, sugar, butter, chicken, milk
+Meatloaf: mushrooms, baking powder, cocoa powder, potatoes, croutons, bread
+Fruit Salad: rice, spaghetti, yogurt, cheese, pepper, salt, vanilla, basil
+Cabbage Rolls: tomatoes, spaghetti, eggs, pepper, cocoa powder
+Pad Thai: pasta, spaghetti, garlic, carrots, celery
+Cabbage Rolls: honey, salt, onion, pepper, carrots, milk, cocoa powder, lemon
+Grilled Vegetables: honey, lemon, garlic, rice, beef, celery, croutons
+Quiche Lorraine: baking powder, eggs, yogurt, salt, carrots, rice, cocoa powder, flour
+Grilled Vegetables: beans, eggs, cheese, flour, olive oil, shrimp, onion
+Fettuccine Carbonara: eggs, Caesar dressing, butter, croutons, basil, olive oil, lemon
+Shepherd's Pie: parmesan cheese, rice, apple, spaghetti, bread, salt
+Pasta Salad: minced meat, beef, tomatoes, flour, basil
+Clam Chowder: minced meat, salt, tomatoes, spaghetti, carrots, onion, basil
+Grilled Vegetables: rice, milk, potatoes, flour, fish, lemon
+Quiche Lorraine: tomatoes, shrimp, beans, pasta, eggs, honey, rice
+Pasta Salad: cheese, spaghetti, beans, celery, yogurt, olive oil, corn
+Pasta Salad: honey, olive oil, pasta, milk, garlic, cream, potatoes
+Chili Con Carne: broccoli, onion, tomatoes, rice, pepper, minced meat, carrots, spinach
+Peach Cobbler: vanilla, potatoes, cheese, lettuce, cream, rice, minced meat
+Grilled Vegetables: spinach, parmesan cheese, rice, corn, Caesar dressing, flour, bread
+Chicken Soup: minced meat, pasta, butter, cheese, broccoli, cocoa powder, yogurt
+Shepherd's Pie: chicken, flour, broccoli, celery, sugar, spaghetti, garlic, minced meat
+Fruit Salad: onion, bread, spinach, Caesar dressing, pepper, potatoes, mushrooms
+Gnocchi: honey, spinach, fish, Caesar dressing, milk, cocoa powder, beef, onion
+BBQ Ribs: corn, potatoes, apple, garlic, pasta, cocoa powder
+Clam Chowder: honey, eggs, baking powder, cheese, parmesan cheese, basil
+Mango Smoothie: chili, bread, Caesar dressing, spinach, parmesan cheese, rice
+Shepherd's Pie: yogurt, tomatoes, baking powder, garlic, vanilla, olive oil
+Chicken Soup: spaghetti, apple, spinach, flour, basil, shrimp, bread
+Fettuccine Carbonara: cream, corn, spaghetti, Caesar dressing, spinach, apple
+Shepherd's Pie: chili, lettuce, olive oil, pasta, celery
+BBQ Ribs: baking powder, vanilla, mushrooms, olive oil, Caesar dressing, sugar, broccoli, cheese
+Cranberry Sauce: shrimp, corn, cocoa powder, potatoes, chicken, chili, beef, Caesar dressing
+Turkey Sandwich: corn, baking powder, spinach, spaghetti, pasta
+Beef Stew: rice, apple, honey, lemon, tomatoes, spinach, spaghetti
+Vegetable Curry: garlic, shrimp, lemon, potatoes, butter, pasta
+Turkey Sandwich: parmesan cheese, bread, mushrooms, flour, honey
+Tuna Salad: beans, basil, broccoli, parmesan cheese, carrots, cream, olive oil, corn
+Falafel: cinnamon, potatoes, honey, onion, lettuce, pasta
+Vegetable Lasagna: pepper, spaghetti, carrots, beef, beans, chicken, honey
+Falafel: chicken, broccoli, potatoes, olive oil, spinach, minced meat
+Chicken Soup: yogurt, parmesan cheese, broccoli, rice, fish
+Quiche Lorraine: honey, vanilla, chili, cinnamon, apple, beef, parmesan cheese
+Fettuccine Carbonara: eggs, lettuce, celery, milk, chili, tomatoes, honey, lemon
+Vegetable Curry: apple, flour, butter, chicken, cheese, croutons, basil
+Cabbage Rolls: flour, broccoli, pepper, Caesar dressing, fish
+Shepherd's Pie: spinach, milk, garlic, cinnamon, sugar, apple, baking powder
+Cabbage Rolls: beans, lemon, potatoes, cinnamon, broccoli, flour, pasta
+Cranberry Sauce: baking powder, butter, salt, vanilla, lemon, mushrooms, tomatoes
+Shepherd's Pie: eggs, tomatoes, croutons, butter, basil
+Fettuccine Carbonara: garlic, yogurt, lettuce, pepper, chili, butter
+Peach Cobbler: shrimp, croutons, cheese, apple, basil, spinach, minced meat, olive oil
+Fettuccine Carbonara: potatoes, olive oil, apple, sugar, lemon, minced meat
+Omelette: salt, onion, vanilla, celery, chili
+Beef Stew: parmesan cheese, flour, cocoa powder, apple, cream
+Falafel: tomatoes, cinnamon, spaghetti, chili, minced meat, honey, broccoli, fish
+Zucchini Bread: minced meat, spinach, mushrooms, chili, onion
+Fruit Salad: spaghetti, shrimp, garlic, tomatoes, honey, potatoes, cheese, onion
+Omelette: yogurt, baking powder, parmesan cheese, spinach, lemon, beef
+Vegetable Curry: corn, mushrooms, sugar, garlic, carrots, cocoa powder, broccoli
+Chicken Soup: celery, olive oil, spinach, apple, shrimp, eggs, milk, croutons
+Tuna Salad: tomatoes, beef, carrots, butter, croutons, honey
+Turkey Sandwich: corn, onion, mushrooms, potatoes, cocoa powder
+Gnocchi: basil, minced meat, chili, cream, pepper, cocoa powder, spinach, pasta
+Shepherd's Pie: apple, spinach, mushrooms, fish, lemon, pepper, vanilla
